@@ -2,3 +2,18 @@
 
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
 
+html, body {
+   font-family: 'Roboto', sans-serif;
+
+}
+html {
+  border: 1px solid black;
+  height: 100%;
+}
+
+
+body {
+  border: 1px solid black;
+  height: 100%;
+
+}
